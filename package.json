@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-nodejs",
+  "version": "1.0.0",
+  "description": "Ejemplo simple de un API REST usando Express.js en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaxtian/rest-api-nodejs.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "Node",
+    "Express"
+  ],
+  "author": "Sebastian Rios Sabogal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebaxtian/rest-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/sebaxtian/rest-api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
